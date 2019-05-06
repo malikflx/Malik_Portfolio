@@ -2,6 +2,21 @@
   box-sizing: border-box;
 }
 
+.action {
+  display: block;
+  height: 100px;
+  width: 500px;
+  background: #191970;
+  color: #FFF;
+  text-align: center;
+  font-weight: bold;
+  font-size 300%;
+  line-height: 100px;
+  font-family: Arial;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
 body {
   background-color: #363636;
   color: #FFF;
